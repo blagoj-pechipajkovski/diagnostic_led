@@ -11,7 +11,7 @@ This library makes it easy to specify and visualy read a pattern of fast flashes
 Include library and create an instance.
 
 ```c++
-#include <DiagnosticLED.h>
+#include <diagnostic_led.h>
 DiagnosticLED dl;
 ```
 

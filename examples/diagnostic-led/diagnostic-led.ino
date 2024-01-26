@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#include <DiagnosticLED.h>
+#include <diagnostic_led.h>
 
 DiagnosticLED dl;
 
